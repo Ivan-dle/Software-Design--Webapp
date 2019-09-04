@@ -6,6 +6,7 @@ Front End: The project uses HTML, CSS, a bit of Javascript for the front end des
 Back End: For the back end, it is completely coded in PHP for all the logic, actions and funtionalities of the webapp.
 
 Database: 
+Apache,
 XAAMP,
 PHP My Admin,
 SQL
