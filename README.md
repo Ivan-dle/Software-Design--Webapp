@@ -29,7 +29,7 @@ Architecture:
 
 
 
-
+![Architecture](https://imgur.com/a/WlgVqao)
 
 
 
